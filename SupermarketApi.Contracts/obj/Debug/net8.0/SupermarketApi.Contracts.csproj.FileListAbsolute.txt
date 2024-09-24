@@ -1,0 +1,12 @@
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\bin\Debug\net8.0\SupermarketApi.Contracts.deps.json
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\bin\Debug\net8.0\SupermarketApi.Contracts.dll
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\bin\Debug\net8.0\SupermarketApi.Contracts.pdb
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\SupermarketApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\SupermarketApi.Contracts.AssemblyInfoInputs.cache
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\SupermarketApi.Contracts.AssemblyInfo.cs
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\SupermarketApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\SupermarketApi.Contracts.dll
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\refint\SupermarketApi.Contracts.dll
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\SupermarketApi.Contracts.pdb
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\ref\SupermarketApi.Contracts.dll
+C:\Desarrollo\SupermarketApi\SupermarketApi.Contracts\obj\Debug\net8.0\SupermarketApi.Contracts.csproj.AssemblyReference.cache

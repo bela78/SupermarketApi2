@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ponREAK3CVFSdWeKBzWU/6hlzGyMNjP/JAxoX/UDeolI47QQr5MxssfZAyvvvdt2PvnG2VD+VKQWT7Ooiycjgg==",
+  "success": true,
+  "projectFilePath": "C:\\challeng\\SupermarketApi2\\SupermarketApi.Contracts\\SupermarketApi.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isa\\.nuget\\packages\\mongodb.bson\\2.29.0\\mongodb.bson.2.29.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

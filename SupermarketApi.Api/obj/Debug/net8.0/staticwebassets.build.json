@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N0JlcnIFXDAredJPloaravZMRxPs3ITWEqJIJpV6/t4=",
+  "Source": "SupermarketApi.Api",
+  "BasePath": "_content/SupermarketApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

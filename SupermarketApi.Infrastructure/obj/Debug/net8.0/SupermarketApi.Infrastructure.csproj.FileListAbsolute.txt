@@ -1,0 +1,15 @@
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\bin\Debug\net8.0\SupermarketApi.Infrastructure.deps.json
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\bin\Debug\net8.0\SupermarketApi.Infrastructure.dll
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\bin\Debug\net8.0\SupermarketApi.Infrastructure.pdb
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\bin\Debug\net8.0\SupermarketApi.Contracts.dll
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\bin\Debug\net8.0\SupermarketApi.Contracts.pdb
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\SupermarketApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\SupermarketApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\SupermarketApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\SupermarketApi.Infrastructure.AssemblyInfo.cs
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\SupermarketApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\Supermar.2C0243E9.Up2Date
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\SupermarketApi.Infrastructure.dll
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\refint\SupermarketApi.Infrastructure.dll
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\SupermarketApi.Infrastructure.pdb
+C:\Desarrollo\SupermarketApi\SupermarketApi.Infrastructure\obj\Debug\net8.0\ref\SupermarketApi.Infrastructure.dll
